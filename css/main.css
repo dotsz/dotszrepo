@@ -291,6 +291,7 @@ nav li a:hover {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    margin: 2em;
   }
   .contact-right {
     position: absolute;
@@ -300,8 +301,9 @@ nav li a:hover {
     height: 100%;
   }
   .contact-right iframe {
-    height: 90%;
+    height: 70%;
     margin: 0.5em auto;
+    border-radius: 1em;
   }
 }
 /*# sourceMappingURL=main.css.map */
